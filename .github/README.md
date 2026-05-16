@@ -1,14 +1,8 @@
-<h1 align="center">🎧 <b>ArcMusic</b></h1>
+<h1 align="center">🎧 <b>ArcMusic</b>(<a href="https://telegram.dog/ArcTunesBot">@ArcTunesBot</a>)</h1>
 
 <p align="center">
-  <i>A blazing-fast, reliable, and feature-packed Telegram bot for streaming music in group voice chats — built with Go.</i>
-</p>
-
-<p align="center">
-  <b>🤖 Demo Bot:</b> <a href="https://telegram.dog/ArcTunesBot?start=help">@ArcTunesBot</a>
-</p>
-
-<p align="center">
+  <b>Telegram Group Calls Streaming Bot</b><br>
+  Supports YouTube, Spotify, Jio Savan, SoundCloud and M3U8 links.<br><br>
 
   <a href="https://go.dev/">
     <img src="https://img.shields.io/badge/Go-1.25-00ADD8?style=for-the-badge&logo=go&labelColor=000000&logoColor=white" alt="Go Version">
@@ -26,6 +20,13 @@
     <img src="https://img.shields.io/github/forks/tusar404/ArcMusic?style=for-the-badge&label=Forks&labelColor=000000&color=00C853&logo=github&logoColor=white" alt="GitHub Forks">
   </a>
 
+</p>
+
+<div align="center">
+<img src="https://github.com/tusar404/ArcMusic/blob/anon/.github/arc.jpg" width="720" height="auto">
+</div>
+<p align="center">
+A blazing-fast, reliable, and feature-packed Telegram bot for streaming music in group calls — built with Go.
 </p>
 
 ---
@@ -221,6 +222,14 @@ ArcMusic/
 ├── go.mod                     # Go module definition
 ├── go.sum                     # Dependency checksums
 ```
+
+---
+
+## 🐍 Python Version (Anon Branch)
+
+Looking for a Python-based alternative? We have an updated version based on the popular [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) repository. This branch has been enhanced and natively implements the **Arc API** for downloading YouTube media.
+
+👉 **[Access the Python (AnonXMusic) source code here!](https://github.com/tusar404/ArcMusic/tree/anon)**
 
 ---
 
