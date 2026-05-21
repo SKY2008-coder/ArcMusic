@@ -75,7 +75,7 @@ vi .env # Edit .env with your credentials
 - **API ID & Hash**: Visit [my.telegram.org](https://my.telegram.org)
 - **Session String**: Use [@StringFatherBot](https://t.me/StringFatherBot) or online generator
 - **MongoDB**: Free tier at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-- **API Key**: Visit[Arc API Dashboard](https://portal.arcmusic.fun/register)
+- **API Key**: Visit [Arc API Dashboard](https://portal.arcmusic.fun/register)
 
 5. **Start the Bot**
 ```bash
