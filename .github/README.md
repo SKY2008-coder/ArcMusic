@@ -1,4 +1,4 @@
-<h1 align="center">🎧 <b>ArcMusic</b>(<a href="https://telegram.dog/ArcTunesBot">@ArcTunesBot</a>)</h1>
+<h1 align="center">🎧 <b> arcane bots </b>(<a href="https://telegram.dog/ArcTunesBot">@sweetumusicbot </a>)</h1>
 
 <p align="center">
   <b>Telegram Group Calls Streaming Bot</b><br>
